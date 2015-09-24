@@ -1,11 +1,11 @@
 title:            StefanFlanderijn.nl
 description:      A blog about linux, sustainable energy, music and photography
 disqus_shortname: hpstrtheme
-reading_time:     true
-words_per_minute: 200
+#reading_time:     true
+#words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url:
+url: https://hosnor.github.io
 
 # Owner/author information
 owner:
@@ -14,8 +14,8 @@ owner:
   bio:            "An engineer in Sustainable Energy Technology and fan of Linux, guitars and photography"
   email:          stefan@stefanflanderijn.nl
   # Social networking links used in footer. Update and remove as you like.
-  twitter:
-  facebook:
+  twitter: twitter.com/stefan8bc
+  facebook: facebook.com/flanderijn
   github:
   stackexchange:
   linkedin:

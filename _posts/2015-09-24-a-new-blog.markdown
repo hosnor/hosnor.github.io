@@ -5,4 +5,4 @@ date: "2015-09-24"
 tags: [generic]
 ---
 
-I've decided that it was time to do something new. Writing long posts isn't really my thing, but one can try, right? Expect posts about the following subjects: sustainable energy, linux, technology, e-sports, photography, music and football. I know, it's a long and diverse list. But it's just the stuff I enjoy :)
+I've decided that it was time to do something new. Writing long posts isn't really my thing, but one can try, right? Expect posts about the following subjects: sustainable energy, linux, technology, e-sports, photography, music and football. I know, it's a long and diverse list. But it's just the stuff I enjoy :) For the first blog post I'll probably write something about how I created this blog (jekyll, github and all that jazz).

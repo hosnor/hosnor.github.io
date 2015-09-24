@@ -1,34 +1,20 @@
 ---
 layout: page
-title: About the Jekyll Theme
+title: About Stefan
 image:
-  feature: abstract-5.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  feature: congruent_pentagon.png
+  credit: Atle Mo
+  creditlink: http://subtlepatterns.com/congruent-pentagon/
 comments: false
-modified: 2014-12-24
+modified: 2015-09-24
 ---
 
-They say three times the charm, so here is another free responsive Jekyll blog theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. 
+Hi there, I'm Stefan Flanderijn. At the moment, I'm in the final stage of my Master Sustainable Energy Technology at the University of Twente.
 
-If you've used any of [my other themes](http://mademistakes.com/work/jekyll-themes/) most of this should be familiar territory...
+During this Master programme, I've done an internship at BTG-BTL in Enschede, where I worked on a dynamic model of a pyrolysis plant. I've started a project with the goal of simulating the behavior of a complete pyrolysis production plant. Several students and interns after me continued the work I've started.
 
-## What HPSTR brings to the table:
+For my final thesis, I'm working on a CFD-model of a pyrolysis reactor. Using ANSYS CFX the behavior of a cyclone reactor is studied.
 
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrads in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Modern and minimal design.
-* Sweet animated menu.
-* Background image support.
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Built-in support for Sass courtesy of Jekyll 2.x.
-* Optional [Disqus](http://disqus.com) comments.
-* Simple and clear permalink structure[^1].
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* Simple [custom 404 page]({{ site.url }}/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting]({{ site.url }}/code-highlighting-post/) to make your code examples look snazzy.
+When I'm not working on my thesis, I have plenty of other stuff to do. I like Linux and other open source software. For instance, I've configured and still maintain 2 servers  where around 20 websites and accompanying mail accounts are hosted. I prefer to use open source software as much as possible (so I run Arch Linux on my laptop, and Debian on my mail server).
 
-<div markdown="0"><a href="{{ site.url }}/theme-setup/" class="btn btn-info">Theme Setup</a> <a href="https://github.com/mmistakes/hpstr-jekyll-theme" class="btn btn-success">Download HPSTR</a></div>
-
-[^1]: Example: *domain.com/category-name/post-title*
+E-sports is another hobby. This started with Starcraft 2, and currently I'm mostly interested in League of Legends. After playing mostly for fun, I've started following the pro-scene more over the years, and visited the League Championship Series in Berlin in 2015.

@@ -1,4 +1,4 @@
-title:            StefanFlanderijn.nl
+title:            stefanFlanderijn.nl
 description:      A blog about linux, sustainable energy, music and photography
 disqus_shortname: hosnor
 #reading_time:     true
@@ -6,7 +6,7 @@ disqus_shortname: hosnor
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
 url: http://www.stefanflanderijn.nl
-
+#url:
 # Owner/author information
 owner:
   name:           Stefan Flanderijn
@@ -29,7 +29,7 @@ owner:
 background:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:
+google_analytics: UA-68090868-1
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:

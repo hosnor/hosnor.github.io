@@ -35,7 +35,8 @@ image:
     {% endif %}
   </header>
   <div class="entry-content">
-    {{ post.content }}
+    {{ post.excerpt }}
+    <a href="{{ site.url }}{{ post.url }}" rel="bookmark">Go to article</a>
   </div><!-- /.entry-content -->
 </article><!-- /.hentry -->
 {% endfor %}

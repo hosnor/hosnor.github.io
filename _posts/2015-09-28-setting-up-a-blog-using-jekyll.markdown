@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Setting up a blog using Jekyll"
-date: "2015-09-27"
+date: "2015-09-28"
 tags: [jekyll, linux, wordpress]
 ---
 
